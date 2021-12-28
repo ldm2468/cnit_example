@@ -1,0 +1,3 @@
+[submodule "cnit"]
+	path = cnit
+	url = https://github.com/ldm2468/cnit.git
